@@ -1,4 +1,4 @@
-module Term
+module ANSITerm
   module ANSIColor
     # Term::ANSIColor version
     VERSION         = '1.0.4'
